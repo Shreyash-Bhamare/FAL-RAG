@@ -23,6 +23,7 @@ venv/
 env/
 .venv/
 .ENV/
+.env
 
 # Data — raw PDFs and processed files (too large for GitHub)
 data/raw/
