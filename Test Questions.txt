@@ -1,0 +1,16 @@
+Test questions:
+Good answers (should work):
+
+"What is equality before law?"
+"Explain fundamental rights"
+"What does Article 14 state?"
+
+Bad answers (will likely hallucinate):
+4. "What is Article 21 and its scope?"
+5. "Explain right to life and personal liberty"
+6. "What amendments relate to Article 21?"
+Mixed (some hallucination):
+7. "Compare Article 14 and Article 21"
+8. "What is the right to education?"
+9. "Explain freedom of religion in Constitution"
+10. "What are the duties of the state?"
